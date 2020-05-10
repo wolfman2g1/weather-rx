@@ -15,4 +15,3 @@ except configparser.ParsingError as err:
 
 # set up the receiver
 def receive():
-    
